@@ -41,7 +41,7 @@ Run the script:
 
 python object_detection.py
 
-How It Works
+# How It Works
 The webcam feed will open.
 
 Detected objects will be shown with green bounding boxes and labels.
